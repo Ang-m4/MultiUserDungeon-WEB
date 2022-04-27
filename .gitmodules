@@ -1,6 +1,0 @@
-[submodule "MUDBackend"]
-	path = MUDBackend
-	url = https://github.com/Ang-m4/MUDBackend.git
-[submodule "MUDFrontend"]
-	path = MUDFrontend
-	url = https://github.com/Ang-m4/MUDFrontend.git
